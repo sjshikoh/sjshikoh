@@ -1,8 +1,18 @@
-- 👋 Hi, I’m @sjshikoh
-- 👀 I’m interested in building websites
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on projects after learning how to use github.
+- 👋# Hi there! 👋
+  👀 I’m Shaista Jawed, a passionate web developer and trainee at **Governor Sindh Initiative Metaverse 3**.
+  🌟 About Me
+- 🎓 Currently a trainee at **Governor Sindh Metaverse 3**.
+- 🌐 Learning and building projects using **HTML**, **CSS**, **JavaScript**, and frameworks like **React**.
+- 🚀 Aspiring to become a proficient **Full Stack Web Developer**.
+- 🎯 My goal is to contribute to open-source projects and collaborate with developers worldwide.
+
 - 📫 How to reach me ...
+- Email:shajarain@gmail.com
+- LinkedIn:(www.linkedin.com/in/shaista-jawed
+- GitHub:https://github.com/sjshikoh
+
+
+
 
 <!---
 sjshikoh/sjshikoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
