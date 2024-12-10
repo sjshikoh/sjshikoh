@@ -1,8 +1,7 @@
-- 👋# Hi there! 👋
+- 👋 Hi there! 
   👀 I’m Shaista Jawed, a passionate web developer and trainee at **Governor Sindh Initiative Metaverse 3**.
-  🌟 About Me
 - 🎓 Currently a trainee at **Governor Sindh Metaverse 3**.
-- 🌐 Learning and building projects using **HTML**, **CSS**, **JavaScript**, and frameworks like **React**.
+- 🌐 Learning and building projects using **HTML**, **CSS**, **TypeScript**, and frameworks like **React**.
 - 🚀 Aspiring to become a proficient **Full Stack Web Developer**.
 - 🎯 My goal is to contribute to open-source projects and collaborate with developers worldwide.
 
